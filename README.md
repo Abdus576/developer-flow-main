@@ -178,10 +178,5 @@ npm run dev
 5. Open a pull request
 
 
-## 📧 Contact
-
-For questions or support, please email [mujtabafaisal944.fk@gmail.com](mailto:mujtabafaisal944.fk@gmail.com)
-
----
 
 Built with ❤️ by Faisal Mujtaba
